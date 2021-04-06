@@ -1,4 +1,4 @@
-# Optical Character Recognition-by-Vaibhav-Karnwal
+# Optical Character Recognition-by-Lokendra Kumar
 python
 
 OpenALPR-
